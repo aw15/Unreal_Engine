@@ -1,0 +1,8 @@
+Intermediate/
+Build/
+DerivedDataCache/
+Saved/
+Binaries/
+Content/StarterContent/
+*.VC.db
+.vs/
